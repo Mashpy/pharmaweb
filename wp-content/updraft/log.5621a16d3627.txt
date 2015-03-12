@@ -1,0 +1,7 @@
+0000.000 (0) Opened log file at time: Thu, 12 Mar 2015 05:07:07 +0000 on http://mdaminul-204803.use1-2.nitrousbox.com:80
+0000.007 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.15 WP: 3.9.3 PHP: 5.5.11 (Linux mdaminul-204803 3.13.4 #1 SMP Thu Mar 6 03:42:38 UTC 2014 x86_64) MySQL: 5.6.13 Server: Apache/2.4.7 (Unix) PHP/5.5.11 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38.2M | 40.3M) multisite: N mcrypt: Y ZipArchive::addFile: Y W3TC/ObjectCache: N
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 57289.5 Mb
+0000.103 (0) Tasks: Backup files:  (schedule: twicedaily) Backup DB: 1 (schedule: twicedaily)
+0000.110 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 
+0000.115 (0) No email will be sent - this backup set was empty.
+0000.119 (0) The backup apparently succeeded (with warnings) and is now complete

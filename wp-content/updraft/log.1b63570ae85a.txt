@@ -1,0 +1,304 @@
+66333.825 (17) Opened log file at time: Thu, 12 Mar 2015 05:05:57 +0000 on http://mdaminul-204803.use1-2.nitrousbox.com:80
+66333.831 (17) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.15 WP: 3.9.3 PHP: 5.5.11 (Linux mdaminul-204803 3.13.4 #1 SMP Thu Mar 6 03:42:38 UTC 2014 x86_64) MySQL: 5.6.13 Server: Apache/2.4.7 (Unix) PHP/5.5.11 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.6M | 35M) multisite: N mcrypt: Y ZipArchive::addFile: Y
+66333.835 (17) Free space on disk containing Updraft's temporary directory: 57289.6 Mb
+66333.844 (17) Backup run: resumption=17, nonce=1b63570ae85a, begun at=1426070423 (66334s ago), job type=backup, previous check-in=105.2s
+66333.846 (17) Long time past since expected resumption time: approx expected=1426121992.6, now=1426136757.4, diff=14764.8
+66333.847 (17) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: http://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+66333.853 (17) Scheduling a resumption (18) after 900 seconds (1426137657) in case this run gets aborted
+66333.885 (17) Creation of backups of directories: already finished
+66333.890 (17) Saving backup status to database (elements: 8)
+66333.899 (17) Database dump (WordPress DB): Creation was completed already
+66333.924 (17) Table wp_options: Total expected rows (approximate): 1519
+66334.377 (17) Table wp_options: Total rows added: 406 in 0.45 seconds
+66334.394 (17) Table wp_options: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_options.table.gz - 126.6 Kb)
+66334.411 (17) Table wp_users: Total expected rows (approximate): 98
+66334.425 (17) Table wp_users: Total rows added: 98 in 0.01 seconds
+66334.431 (17) Table wp_users: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_users.table.gz - 6.7 Kb)
+66334.440 (17) Table wp_usermeta: Total expected rows (approximate): 1266
+66334.480 (17) Table wp_usermeta: Total rows added: 1266 in 0.03 seconds
+66334.485 (17) Table wp_usermeta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_usermeta.table.gz - 12.1 Kb)
+66334.528 (17) Table wp_commentmeta: Total expected rows (approximate): 0
+66334.534 (17) Table wp_commentmeta: Total rows added: 1 in 0.00 seconds
+66334.539 (17) Table wp_commentmeta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+66334.568 (17) Table wp_comments: Total expected rows (approximate): 6
+66334.576 (17) Table wp_comments: Total rows added: 6 in 0.00 seconds
+66334.582 (17) Table wp_comments: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_comments.table.gz - 0.9 Kb)
+66334.609 (17) Table wp_links: Total expected rows (approximate): 0
+66334.615 (17) Table wp_links: Total rows added: 0 in 0.00 seconds
+66334.620 (17) Table wp_links: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_links.table.gz - 0.4 Kb)
+66334.637 (17) Table wp_postmeta: Total expected rows (approximate): 899
+66334.665 (17) Table wp_postmeta: Total rows added: 899 in 0.02 seconds
+66334.671 (17) Table wp_postmeta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_postmeta.table.gz - 10.4 Kb)
+66334.686 (17) Table wp_posts: Total expected rows (approximate): 182
+66334.749 (17) Table wp_posts: Total rows added: 220 in 0.06 seconds
+66334.758 (17) Table wp_posts: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_posts.table.gz - 37 Kb)
+66334.829 (17) Table wp_signups: Total expected rows (approximate): 108
+66334.849 (17) Table wp_signups: Total rows added: 108 in 0.01 seconds
+66334.855 (17) Table wp_signups: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_signups.table.gz - 12.1 Kb)
+66334.874 (17) Table wp_term_relationships: Total expected rows (approximate): 73
+66334.881 (17) Table wp_term_relationships: Total rows added: 73 in 0.00 seconds
+66334.888 (17) Table wp_term_relationships: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_term_relationships.table.gz - 0.5 Kb)
+66334.901 (17) Table wp_term_taxonomy: Total expected rows (approximate): 11
+66334.908 (17) Table wp_term_taxonomy: Total rows added: 11 in 0.00 seconds
+66334.918 (17) Table wp_term_taxonomy: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_term_taxonomy.table.gz - 0.5 Kb)
+66334.936 (17) Table wp_terms: Total expected rows (approximate): 11
+66334.942 (17) Table wp_terms: Total rows added: 11 in 0.00 seconds
+66334.948 (17) Table wp_terms: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_terms.table.gz - 0.5 Kb)
+66334.966 (17) Table wp_bp_activity: Total expected rows (approximate): 50
+66334.975 (17) Table wp_bp_activity: Total rows added: 50 in 0.01 seconds
+66334.981 (17) Table wp_bp_activity: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_activity.table.gz - 1.2 Kb)
+66335.014 (17) Table wp_bp_activity_meta: Total expected rows (approximate): 0
+66335.021 (17) Table wp_bp_activity_meta: Total rows added: 0 in 0.00 seconds
+66335.026 (17) Table wp_bp_activity_meta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_activity_meta.table.gz - 0.3 Kb)
+66335.071 (17) Table wp_bp_friends: Total expected rows (approximate): 0
+66335.078 (17) Table wp_bp_friends: Total rows added: 0 in 0.00 seconds
+66335.084 (17) Table wp_bp_friends: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_friends.table.gz - 0.3 Kb)
+66335.104 (17) Table wp_bp_groups: Total expected rows (approximate): 0
+66335.111 (17) Table wp_bp_groups: Total rows added: 0 in 0.00 seconds
+66335.116 (17) Table wp_bp_groups: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_groups.table.gz - 0.4 Kb)
+66335.137 (17) Table wp_bp_groups_groupmeta: Total expected rows (approximate): 0
+66335.144 (17) Table wp_bp_groups_groupmeta: Total rows added: 0 in 0.00 seconds
+66335.151 (17) Table wp_bp_groups_groupmeta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_groups_groupmeta.table.gz - 0.3 Kb)
+66335.171 (17) Table wp_bp_groups_members: Total expected rows (approximate): 0
+66335.177 (17) Table wp_bp_groups_members: Total rows added: 0 in 0.00 seconds
+66335.183 (17) Table wp_bp_groups_members: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_groups_members.table.gz - 0.4 Kb)
+66335.215 (17) Table wp_bp_messages_messages: Total expected rows (approximate): 0
+66335.221 (17) Table wp_bp_messages_messages: Total rows added: 0 in 0.00 seconds
+66335.226 (17) Table wp_bp_messages_messages: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_messages_messages.table.gz - 0.3 Kb)
+66335.244 (17) Table wp_bp_messages_notices: Total expected rows (approximate): 0
+66335.251 (17) Table wp_bp_messages_notices: Total rows added: 0 in 0.00 seconds
+66335.257 (17) Table wp_bp_messages_notices: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_messages_notices.table.gz - 0.3 Kb)
+66335.278 (17) Table wp_bp_messages_recipients: Total expected rows (approximate): 0
+66335.287 (17) Table wp_bp_messages_recipients: Total rows added: 0 in 0.00 seconds
+66335.292 (17) Table wp_bp_messages_recipients: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_messages_recipients.table.gz - 0.4 Kb)
+66335.317 (17) Table wp_bp_notifications: Total expected rows (approximate): 0
+66335.324 (17) Table wp_bp_notifications: Total rows added: 0 in 0.00 seconds
+66335.331 (17) Table wp_bp_notifications: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_notifications.table.gz - 0.4 Kb)
+66335.359 (17) Table wp_bp_user_blogs: Total expected rows (approximate): 37
+66335.367 (17) Table wp_bp_user_blogs: Total rows added: 37 in 0.00 seconds
+66335.373 (17) Table wp_bp_user_blogs: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_user_blogs.table.gz - 0.5 Kb)
+66335.395 (17) Table wp_bp_user_blogs_blogmeta: Total expected rows (approximate): 7
+66335.403 (17) Table wp_bp_user_blogs_blogmeta: Total rows added: 7 in 0.00 seconds
+66335.408 (17) Table wp_bp_user_blogs_blogmeta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_user_blogs_blogmeta.table.gz - 0.6 Kb)
+66335.429 (17) Table wp_bp_xprofile_data: Total expected rows (approximate): 441
+66335.455 (17) Table wp_bp_xprofile_data: Total rows added: 441 in 0.02 seconds
+66335.461 (17) Table wp_bp_xprofile_data: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_data.table.gz - 16.7 Kb)
+66335.484 (17) Table wp_bp_xprofile_fields: Total expected rows (approximate): 122
+66335.496 (17) Table wp_bp_xprofile_fields: Total rows added: 122 in 0.01 seconds
+66335.502 (17) Table wp_bp_xprofile_fields: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_fields.table.gz - 1.9 Kb)
+66335.521 (17) Table wp_bp_xprofile_groups: Total expected rows (approximate): 4
+66335.527 (17) Table wp_bp_xprofile_groups: Total rows added: 4 in 0.00 seconds
+66335.532 (17) Table wp_bp_xprofile_groups: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_groups.table.gz - 0.4 Kb)
+66335.555 (17) Table wp_bp_xprofile_meta: Total expected rows (approximate): 80
+66335.563 (17) Table wp_bp_xprofile_meta: Total rows added: 80 in 0.00 seconds
+66335.569 (17) Table wp_bp_xprofile_meta: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_meta.table.gz - 1.3 Kb)
+66335.589 (17) Table wp_bwg_album: Total expected rows (approximate): 0
+66335.595 (17) Table wp_bwg_album: Total rows added: 0 in 0.00 seconds
+66335.601 (17) Table wp_bwg_album: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_album.table.gz - 0.3 Kb)
+66335.621 (17) Table wp_bwg_album_gallery: Total expected rows (approximate): 0
+66335.627 (17) Table wp_bwg_album_gallery: Total rows added: 0 in 0.00 seconds
+66335.634 (17) Table wp_bwg_album_gallery: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_album_gallery.table.gz - 0.3 Kb)
+66335.655 (17) Table wp_bwg_gallery: Total expected rows (approximate): 0
+66335.662 (17) Table wp_bwg_gallery: Total rows added: 0 in 0.00 seconds
+66335.667 (17) Table wp_bwg_gallery: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_gallery.table.gz - 0.4 Kb)
+66335.688 (17) Table wp_bwg_image: Total expected rows (approximate): 0
+66335.694 (17) Table wp_bwg_image: Total rows added: 0 in 0.00 seconds
+66335.699 (17) Table wp_bwg_image: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image.table.gz - 0.4 Kb)
+66335.722 (17) Table wp_bwg_image_comment: Total expected rows (approximate): 0
+66335.732 (17) Table wp_bwg_image_comment: Total rows added: 0 in 0.00 seconds
+66335.738 (17) Table wp_bwg_image_comment: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image_comment.table.gz - 0.3 Kb)
+66335.768 (17) Table wp_bwg_image_rate: Total expected rows (approximate): 0
+66335.774 (17) Table wp_bwg_image_rate: Total rows added: 0 in 0.00 seconds
+66335.780 (17) Table wp_bwg_image_rate: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image_rate.table.gz - 0.3 Kb)
+66335.799 (17) Table wp_bwg_image_tag: Total expected rows (approximate): 0
+66335.804 (17) Table wp_bwg_image_tag: Total rows added: 0 in 0.00 seconds
+66335.809 (17) Table wp_bwg_image_tag: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image_tag.table.gz - 0.3 Kb)
+66335.830 (17) Table wp_bwg_option: Total expected rows (approximate): 1
+66335.841 (17) Table wp_bwg_option: Total rows added: 1 in 0.01 seconds
+66335.847 (17) Table wp_bwg_option: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_option.table.gz - 1.2 Kb)
+66335.867 (17) Table wp_bwg_theme: Total expected rows (approximate): 2
+66335.887 (17) Table wp_bwg_theme: Total rows added: 2 in 0.02 seconds
+66335.894 (17) Table wp_bwg_theme: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_theme.table.gz - 2.9 Kb)
+66335.911 (17) Table wp_cn_social_icon: Total expected rows (approximate): 5
+66335.916 (17) Table wp_cn_social_icon: Total rows added: 5 in 0.00 seconds
+66335.921 (17) Table wp_cn_social_icon: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_cn_social_icon.table.gz - 0.5 Kb)
+66335.938 (17) Table wp_flag_album: Total expected rows (approximate): 0
+66335.944 (17) Table wp_flag_album: Total rows added: 0 in 0.00 seconds
+66335.949 (17) Table wp_flag_album: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_album.table.gz - 0.3 Kb)
+66335.969 (17) Table wp_flag_comments: Total expected rows (approximate): 0
+66335.975 (17) Table wp_flag_comments: Total rows added: 0 in 0.00 seconds
+66335.980 (17) Table wp_flag_comments: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_comments.table.gz - 0.4 Kb)
+66335.999 (17) Table wp_flag_gallery: Total expected rows (approximate): 0
+66336.007 (17) Table wp_flag_gallery: Total rows added: 0 in 0.00 seconds
+66336.012 (17) Table wp_flag_gallery: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_gallery.table.gz - 0.3 Kb)
+66336.046 (17) Table wp_flag_pictures: Total expected rows (approximate): 0
+66336.053 (17) Table wp_flag_pictures: Total rows added: 0 in 0.00 seconds
+66336.058 (17) Table wp_flag_pictures: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_pictures.table.gz - 0.5 Kb)
+66336.076 (17) Table wp_nxs_log: Total expected rows (approximate): 76
+66336.085 (17) Table wp_nxs_log: Total rows added: 76 in 0.01 seconds
+66336.091 (17) Table wp_nxs_log: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_nxs_log.table.gz - 2 Kb)
+66336.106 (17) Table wp_uam_accessgroup_to_object: Total expected rows (approximate): 40
+66336.113 (17) Table wp_uam_accessgroup_to_object: Total rows added: 40 in 0.00 seconds
+66336.119 (17) Table wp_uam_accessgroup_to_object: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_uam_accessgroup_to_object.table.gz - 0.5 Kb)
+66336.135 (17) Table wp_uam_accessgroups: Total expected rows (approximate): 3
+66336.141 (17) Table wp_uam_accessgroups: Total rows added: 3 in 0.00 seconds
+66336.149 (17) Table wp_uam_accessgroups: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_uam_accessgroups.table.gz - 0.4 Kb)
+66336.176 (17) Table wp_wfbadleechers: Total expected rows (approximate): 0
+66336.185 (17) Table wp_wfbadleechers: Total rows added: 0 in 0.00 seconds
+66336.190 (17) Table wp_wfbadleechers: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfbadleechers.table.gz - 0.3 Kb)
+66336.207 (17) Table wp_wfblocks: Total expected rows (approximate): 0
+66336.213 (17) Table wp_wfblocks: Total rows added: 0 in 0.00 seconds
+66336.221 (17) Table wp_wfblocks: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfblocks.table.gz - 0.3 Kb)
+66336.244 (17) Table wp_wfblocksadv: Total expected rows (approximate): 0
+66336.251 (17) Table wp_wfblocksadv: Total rows added: 0 in 0.00 seconds
+66336.259 (17) Table wp_wfblocksadv: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfblocksadv.table.gz - 0.3 Kb)
+66336.283 (17) Table wp_wfconfig: Total expected rows (approximate): 113
+66336.296 (17) Table wp_wfconfig: Total rows added: 113 in 0.01 seconds
+66336.305 (17) Table wp_wfconfig: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfconfig.table.gz - 2 Kb)
+66336.330 (17) Table wp_wfcrawlers: Total expected rows (approximate): 0
+66336.357 (17) Table wp_wfcrawlers: Total rows added: 0 in 0.02 seconds
+66336.362 (17) Table wp_wfcrawlers: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfcrawlers.table.gz - 0.3 Kb)
+66336.383 (17) Table wp_wffilemods: Total expected rows (approximate): 3636
+66336.559 (17) Table wp_wffilemods: Total rows added: 3637 in 0.17 seconds
+66336.565 (17) Table wp_wffilemods: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wffilemods.table.gz - 181.8 Kb)
+66336.587 (17) Table wp_wfhits: Total expected rows (approximate): 1524
+66336.678 (17) Table wp_wfhits: Total rows added: 1524 in 0.09 seconds
+66336.685 (17) Table wp_wfhits: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfhits.table.gz - 34.2 Kb)
+66336.703 (17) Table wp_wfhoover: Total expected rows (approximate): 0
+66336.709 (17) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+66336.714 (17) Table wp_wfhoover: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfhoover.table.gz - 0.3 Kb)
+66336.733 (17) Table wp_wfissues: Total expected rows (approximate): 14
+66336.741 (17) Table wp_wfissues: Total rows added: 14 in 0.00 seconds
+66336.747 (17) Table wp_wfissues: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfissues.table.gz - 3.8 Kb)
+66336.769 (17) Table wp_wfleechers: Total expected rows (approximate): 0
+66336.776 (17) Table wp_wfleechers: Total rows added: 0 in 0.00 seconds
+66336.782 (17) Table wp_wfleechers: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfleechers.table.gz - 0.3 Kb)
+66336.800 (17) Table wp_wflockedout: Total expected rows (approximate): 0
+66336.806 (17) Table wp_wflockedout: Total rows added: 0 in 0.00 seconds
+66336.812 (17) Table wp_wflockedout: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wflockedout.table.gz - 0.3 Kb)
+66336.828 (17) Table wp_wflocs: Total expected rows (approximate): 0
+66336.836 (17) Table wp_wflocs: Total rows added: 0 in 0.00 seconds
+66336.842 (17) Table wp_wflocs: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wflocs.table.gz - 0.3 Kb)
+66336.860 (17) Table wp_wflogins: Total expected rows (approximate): 150
+66336.876 (17) Table wp_wflogins: Total rows added: 150 in 0.01 seconds
+66336.883 (17) Table wp_wflogins: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wflogins.table.gz - 3.9 Kb)
+66336.899 (17) Table wp_wfnet404s: Total expected rows (approximate): 0
+66336.918 (17) Table wp_wfnet404s: Total rows added: 0 in 0.01 seconds
+66336.923 (17) Table wp_wfnet404s: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfnet404s.table.gz - 0.3 Kb)
+66336.942 (17) Table wp_wfreversecache: Total expected rows (approximate): 0
+66336.948 (17) Table wp_wfreversecache: Total rows added: 0 in 0.00 seconds
+66336.953 (17) Table wp_wfreversecache: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfreversecache.table.gz - 0.3 Kb)
+66336.970 (17) Table wp_wfscanners: Total expected rows (approximate): 0
+66336.977 (17) Table wp_wfscanners: Total rows added: 0 in 0.00 seconds
+66336.982 (17) Table wp_wfscanners: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfscanners.table.gz - 0.3 Kb)
+66337.002 (17) Table wp_wfstatus: Total expected rows (approximate): 1880
+66337.115 (17) Table wp_wfstatus: Total rows added: 1880 in 0.11 seconds
+66337.121 (17) Table wp_wfstatus: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfstatus.table.gz - 22.8 Kb)
+66337.155 (17) Table wp_wfthrottlelog: Total expected rows (approximate): 0
+66337.163 (17) Table wp_wfthrottlelog: Total rows added: 0 in 0.00 seconds
+66337.168 (17) Table wp_wfthrottlelog: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfthrottlelog.table.gz - 0.3 Kb)
+66337.192 (17) Table wp_wfvulnscanners: Total expected rows (approximate): 0
+66337.198 (17) Table wp_wfvulnscanners: Total rows added: 0 in 0.00 seconds
+66337.205 (17) Table wp_wfvulnscanners: finishing file (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfvulnscanners.table.gz - 0.3 Kb)
+66337.216 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_options.table.gz (1/64): adding to final database dump
+66337.251 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_users.table.gz (2/64): adding to final database dump
+66337.258 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_usermeta.table.gz (3/64): adding to final database dump
+66337.271 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_commentmeta.table.gz (4/64): adding to final database dump
+66337.278 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_comments.table.gz (5/64): adding to final database dump
+66337.282 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_links.table.gz (6/64): adding to final database dump
+66337.288 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_postmeta.table.gz (7/64): adding to final database dump
+66337.349 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_posts.table.gz (8/64): adding to final database dump
+66337.366 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_signups.table.gz (9/64): adding to final database dump
+66337.374 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_term_relationships.table.gz (10/64): adding to final database dump
+66337.380 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_term_taxonomy.table.gz (11/64): adding to final database dump
+66337.384 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_terms.table.gz (12/64): adding to final database dump
+66337.388 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_activity.table.gz (13/64): adding to final database dump
+66337.393 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_activity_meta.table.gz (14/64): adding to final database dump
+66337.397 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_friends.table.gz (15/64): adding to final database dump
+66337.401 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_groups.table.gz (16/64): adding to final database dump
+66337.406 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_groups_groupmeta.table.gz (17/64): adding to final database dump
+66337.410 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_groups_members.table.gz (18/64): adding to final database dump
+66337.415 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_messages_messages.table.gz (19/64): adding to final database dump
+66337.419 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_messages_notices.table.gz (20/64): adding to final database dump
+66337.424 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_messages_recipients.table.gz (21/64): adding to final database dump
+66337.428 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_notifications.table.gz (22/64): adding to final database dump
+66337.432 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_user_blogs.table.gz (23/64): adding to final database dump
+66337.436 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_user_blogs_blogmeta.table.gz (24/64): adding to final database dump
+66337.440 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_data.table.gz (25/64): adding to final database dump
+66337.450 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_fields.table.gz (26/64): adding to final database dump
+66337.456 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_groups.table.gz (27/64): adding to final database dump
+66337.460 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bp_xprofile_meta.table.gz (28/64): adding to final database dump
+66337.466 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_album.table.gz (29/64): adding to final database dump
+66337.472 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_album_gallery.table.gz (30/64): adding to final database dump
+66337.477 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_gallery.table.gz (31/64): adding to final database dump
+66337.481 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image.table.gz (32/64): adding to final database dump
+66337.485 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image_comment.table.gz (33/64): adding to final database dump
+66337.489 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image_rate.table.gz (34/64): adding to final database dump
+66337.493 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_image_tag.table.gz (35/64): adding to final database dump
+66337.497 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_option.table.gz (36/64): adding to final database dump
+66337.501 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_bwg_theme.table.gz (37/64): adding to final database dump
+66337.507 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_cn_social_icon.table.gz (38/64): adding to final database dump
+66337.512 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_album.table.gz (39/64): adding to final database dump
+66337.516 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_comments.table.gz (40/64): adding to final database dump
+66337.521 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_gallery.table.gz (41/64): adding to final database dump
+66337.526 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_flag_pictures.table.gz (42/64): adding to final database dump
+66337.530 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_nxs_log.table.gz (43/64): adding to final database dump
+66337.534 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_uam_accessgroup_to_object.table.gz (44/64): adding to final database dump
+66337.542 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_uam_accessgroups.table.gz (45/64): adding to final database dump
+66337.548 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfbadleechers.table.gz (46/64): adding to final database dump
+66337.553 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfblocks.table.gz (47/64): adding to final database dump
+66337.559 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfblocksadv.table.gz (48/64): adding to final database dump
+66337.564 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfconfig.table.gz (49/64): adding to final database dump
+66337.570 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfcrawlers.table.gz (50/64): adding to final database dump
+66337.574 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wffilemods.table.gz (51/64): adding to final database dump
+66337.616 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfhits.table.gz (52/64): adding to final database dump
+66337.636 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfhoover.table.gz (53/64): adding to final database dump
+66337.640 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfissues.table.gz (54/64): adding to final database dump
+66337.645 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfleechers.table.gz (55/64): adding to final database dump
+66337.650 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wflockedout.table.gz (56/64): adding to final database dump
+66337.657 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wflocs.table.gz (57/64): adding to final database dump
+66337.661 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wflogins.table.gz (58/64): adding to final database dump
+66337.667 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfnet404s.table.gz (59/64): adding to final database dump
+66337.672 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfreversecache.table.gz (60/64): adding to final database dump
+66337.676 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfscanners.table.gz (61/64): adding to final database dump
+66337.680 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfstatus.table.gz (62/64): adding to final database dump
+66337.696 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfthrottlelog.table.gz (63/64): adding to final database dump
+66337.703 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db-table-wp_wfvulnscanners.table.gz (64/64): adding to final database dump
+66337.709 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz: finished writing out complete database file (464 Kb)
+66337.737 (17) Total database tables backed up: 64 (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz, size: 497365, checksum (SHA1): bebcedca9a6a4b137ba15ba2d509ee18636959a4)
+66337.743 (17) Saving backup history
+66337.761 (17) backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/action/workspace/www/wp-content/updraft/backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-plugins.zip)
+66337.772 (17) Recording as successfully uploaded: backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-plugins.zip (29556f406aea50726b1519ceed3f123d)
+66337.792 (17) backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/action/workspace/www/wp-content/updraft/backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-themes.zip)
+66337.803 (17) Recording as successfully uploaded: backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-themes.zip (a8e66cff84922643b62ff391d90c6908)
+66337.825 (17) backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/action/workspace/www/wp-content/updraft/backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-uploads.zip)
+66337.835 (17) Recording as successfully uploaded: backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-uploads.zip (30f66f86157cf883cf92aa386cb56b60)
+66337.849 (17) backup_2015-03-11-1040_Department_of_Pharmacy__2724867d6f07-others.zip: others: This file has already been successfully uploaded
+66337.853 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz: db: This file has not yet been successfully uploaded: will queue
+66337.863 (17) Requesting upload of the files that have not yet been successfully uploaded (1)
+66337.872 (17) Cloud backup selection: googledrive
+66337.895 (17) Beginning dispatch of backup to remote (googledrive)
+66338.008 (17) Google Drive: requesting access token: client_id=130530048649-6ldjvvip56fhoqdddn8qhiog6undth08.apps.googleusercontent.com
+66338.085 (17) Google Drive: successfully obtained access token
+66339.035 (17) Google Drive quota usage: used=467.6 Mb, total=15360 Mb, available=14892.4 Mb
+66339.043 (17) backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz: Attempting to upload to Google Drive (into folder id: 0BxcFrVFHkXEdcEstaUI1VG1vMnc)
+66339.965 (17) Googledrive chunked upload: 100 % uploaded
+66339.979 (17) OK: Archive backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz uploaded to Google Drive in 0.93 seconds
+66339.988 (17) Recording as successfully uploaded: backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz (97ad9d220f7c289d9f466e1ada491c6c)
+66340.003 (17) Deleting local file: backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz: OK
+66340.014 (17) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+66340.019 (17) Number of backup sets in history: 3
+66340.024 (17) Examining backup set with datestamp: 1426087471 (Mar 11 2015 15:24:31)
+66340.028 (17) 1426087471: db: this set includes a database (backup_2015-03-11-1524_Department_of_Pharmacy__1b63570ae85a-db.gz); db count is now 1
+66340.579 (17) 1426087471: this backup set remains non-empty (1/1); will retain in history
+66340.585 (17) Examining backup set with datestamp: 1426070423 (Mar 11 2015 10:40:23)
+66340.589 (17) 1426070423: db: this set includes a database (backup_2015-03-11-1040_Department_of_Pharmacy__1b63570ae85a-db.gz); db count is now 2
+66340.982 (17) 1426070423: this backup set remains non-empty (1/1); will retain in history
+66340.986 (17) Examining backup set with datestamp: 1426000339 (Mar 10 2015 15:12:19)
+66340.990 (17) 1426000339: db: this set includes a database (backup_2015-03-10-1512_Department_of_Pharmacy__a44fcd3e3055-db.gz); db count is now 3
+66341.342 (17) 1426000339: this backup set remains non-empty (1/1); will retain in history
+66341.345 (17) Retain: saving new backup history (sets now: 3) and finishing retain operation
+66341.350 (17) Resume backup (1b63570ae85a, 17): finish run
+66341.357 (17) There were no errors in the uploads, so the 'resume' event (18) is being unscheduled
+66341.371 (17) No email will/can be sent - the user has not configured an email address.
+66341.375 (17) The backup apparently succeeded (with warnings) and is now complete

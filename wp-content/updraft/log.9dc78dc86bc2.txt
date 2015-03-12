@@ -1,0 +1,11 @@
+66341.391 (63) Opened log file at time: Thu, 12 Mar 2015 05:06:05 +0000 on http://mdaminul-204803.use1-2.nitrousbox.com:80
+66341.395 (63) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.15 WP: 3.9.3 PHP: 5.5.11 (Linux mdaminul-204803 3.13.4 #1 SMP Thu Mar 6 03:42:38 UTC 2014 x86_64) MySQL: 5.6.13 Server: Apache/2.4.7 (Unix) PHP/5.5.11 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38M | 40M) multisite: N mcrypt: Y ZipArchive::addFile: Y
+66341.399 (63) Free space on disk containing Updraft's temporary directory: 57289.5 Mb
+66341.408 (63) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1426136764.9, time_now=1426136765, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+66341.412 (63) Rescheduling resumption 64: moving to 1020 seconds from now (1426137785)
+66341.425 (63) To decrease the likelihood of overlaps, increasing resumption interval to: 900 + 120 = 1020
+67470.620 (64) Opened log file at time: Thu, 12 Mar 2015 05:24:54 +0000 on http://mdaminul-204803.use1-2.nitrousbox.com:80
+67470.625 (64) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.15 WP: 3.9.3 PHP: 5.5.11 (Linux mdaminul-204803 3.13.4 #1 SMP Thu Mar 6 03:42:38 UTC 2014 x86_64) MySQL: 5.6.13 Server: Apache/2.4.7 (Unix) PHP/5.5.11 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.6M | 35M) multisite: N mcrypt: Y ZipArchive::addFile: Y
+67470.628 (64) Free space on disk containing Updraft's temporary directory: 57154 Mb
+67470.637 (64) Backup run: resumption=64, nonce=9dc78dc86bc2, begun at=1426070423 (67471s ago), job type=backup, previous check-in=0s
+67470.642 (64) Terminate: This backup job is already finished.
