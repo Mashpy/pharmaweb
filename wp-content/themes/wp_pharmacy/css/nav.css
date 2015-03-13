@@ -18,6 +18,9 @@ border-left: 1px solid #FFB988;
 font-weight: 600;
 text-transform: uppercase;
 }
+#nav ul ul a {
+  padding-left: 10px;
+}
 #nav li a:hover{color:#fff;}
 #nav li:last-child a { border-right: #FFF solid 0px; }
 /* main level link hover */
@@ -48,7 +51,7 @@ white-space: nowrap !important;
 display: none;
 margin: 0;
 padding: 0;
-width: 230px;
+width: 232px;
 position: absolute;
 top: 40px;
 left: 0;
